@@ -1,0 +1,163 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+
+body {
+  font-family: "Red Hat Display", cursive;
+  font-weight: 500;
+  margin : 1.5em;
+  
+}
+
+nav{
+    display :flex;
+    align-items: center;
+   
+}
+/* nav login styling */
+.login{
+    width: 50%;
+    display : flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.fa-arrow-right{
+    padding-left: 2px;
+    
+}
+
+.learn-more p,.login{
+    font-weight:bold;
+}
+.login:hover, .learn-more p:hover{
+    color : #407689;
+}
+
+button{
+background-color: #407689;
+color: white;
+    margin-left: 1.1em;
+    padding : .3em 0.8em;
+    border-radius: 7px;
+    border : none;
+}
+/* in mobile view,  for quick links */
+.quick-links{
+    display : none;
+}
+
+img{
+    width: 100%;
+}
+
+/* hero text styles */
+.hero-txt{
+    color : #407689;
+    margin-bottom: 0.3em;
+}
+
+h2{
+    font-size: 3em;
+    margin-bottom: 0.3em;
+}
+
+.hero-text{
+    margin-bottom: 0.5em;
+}
+
+/* learn more/login styles */
+.learn-more{
+    display : flex;
+    margin: 2em 0;
+}/* the div */
+
+#learn-more{
+    background-color: #b0d7eb ;
+    color: #407689;
+    border : none;
+}/* the button */
+
+/* audience styles */
+.audience{
+    display : flex;
+    flex-direction: row;    
+    gap: 2em;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight:bold;
+}
+.line-break{
+    border-left: 1px solid gray;
+   
+}
+.fa-bolt{
+    color : #407689;
+    padding-left: 2px;
+}
+.audience p, h2 ~ p{
+    color: gray;
+    font-weight: thin;    
+}
+
+.audience p{
+    font-size: 0.4em;
+}
+/* my footer */
+footer{
+    color: #407689 ;
+    text-align: center ;
+    
+}
+footer p{
+    margin-top: 2em;
+}
+footer a{
+    color : gray;
+    text-decoration: none;
+    text-shadow: 0 0 1px #407689;
+}
+
+
+
+/* Desktop view */
+@media(min-width: 600px){
+
+/* display it only on desktop */
+.quick-links{
+    display : inline-block;    
+    width: 50%;
+}
+
+ nav .links{
+    list-style: none ;
+  color: red;
+  display: flex;    
+  
+}
+
+.links li{
+    padding-left: 1em;
+    color: gray;
+}
+
+.login{
+    
+    width: 40%;
+    justify-content: center;
+}
+
+body{
+    margin: 3em 4.5em;
+}
+section{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 1em;
+}
+.hero-text p{
+    font-size: 1.5em;
+}
+
+}
