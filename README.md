@@ -74,7 +74,9 @@ I should learn some CSS part I'm yet to master side by side with JavaScript
 Hopefully Tailwind CSS
 
 ### Useful resources
-- [https://cdnjs.com/libraries/font-awesome] - helped with font awesome- [https://css-tricks.com] - Flexbox
+- [https://cdnjs.com/libraries/font-awesome] -
+ helped with font awesome
+- [https://css-tricks.com] - Flexbox
 
 ## Author
 
