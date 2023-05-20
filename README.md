@@ -5,7 +5,7 @@ E-course platform to get subject certification or earn money while teaching.
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Video](#video)
+  - [Preview](#preview)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -25,14 +25,16 @@ It should:
 - Responsive website
 - Signup form
 
-### Video 
+### Preview 
+![desktop-view](https://github.com/f-lajoc/GlobalTalk-Website/assets/104025961/53cdae1d-a3d1-49a8-bd59-5266d72a1a9e)
+![mobile-view](https://github.com/f-lajoc/GlobalTalk-Website/assets/104025961/20571b54-321f-4844-b5e0-4a5c9d541a34)
 
-link by git
+
 
 ### Links
 
 - Solution URL: [https://github.com/f-lajoc/GlobalTalk-Website/tree/main)] 
-- Live Site URL: [https://f-lajoc.github.io/Cocokitchen/]
+- Live Site URL: [https://global-talk-site.vercel.app/]
 
 ## My process
 
