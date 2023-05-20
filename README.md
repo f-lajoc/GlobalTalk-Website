@@ -31,7 +31,7 @@ link by git
 
 ### Links
 
-- Solution URL: [https://github.com/f-lajoc/Cocokitchen] 
+- Solution URL: [https://github.com/f-lajoc/GlobalTalk-Website/tree/main)] 
 - Live Site URL: [https://f-lajoc.github.io/Cocokitchen/]
 
 ## My process
