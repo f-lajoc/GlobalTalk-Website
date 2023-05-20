@@ -26,8 +26,15 @@ It should:
 - Signup form
 
 ### Preview 
+- Main Page Desktop View
+
 ![desktop-view](https://github.com/f-lajoc/GlobalTalk-Website/assets/104025961/53cdae1d-a3d1-49a8-bd59-5266d72a1a9e)
+- Main Page Mobile View
+
 ![mobile-view](https://github.com/f-lajoc/GlobalTalk-Website/assets/104025961/20571b54-321f-4844-b5e0-4a5c9d541a34)
+- Signup Form Mobile View
+
+![signup-form-view](https://github.com/f-lajoc/GlobalTalk-Website/assets/104025961/cf0b4c6d-8dfe-4546-bfa7-13c6befe799e)
 
 
 
