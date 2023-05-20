@@ -40,7 +40,7 @@ It should:
 
 ### Links
 
-- Solution URL: [https://github.com/f-lajoc/GlobalTalk-Website/tree/main)] 
+- Solution URL: [https://github.com/f-lajoc/GlobalTalk-Website/tree/main] 
 - Live Site URL: [https://global-talk-site.vercel.app/]
 
 ## My process
